@@ -1,0 +1,19 @@
+{
+  "name": "drag-and-drop",
+  "version": "1.0.0",
+  "description": "Drag and drop TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Oksana Korobanova",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
